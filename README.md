@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Er. Santosh Kumar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Er. Santosh </h1>
 <h3 align="center">A passionate Software QA Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshadhikari6444&label=Profile%20views&color=0e75b6&style=flat" alt="santoshadhikari6444" /> </p>
